@@ -1,2 +1,7 @@
-# Ejemplo-de-clase
-Repositorio de practica para el laboratorio de fundamentos de programación
+# Ejemplo de laboratorio
+
+Repositorio de practica para el laboratorio de fundamentos de programación.
+
+Cristhian Camilo Britel
+
+Hola mundo
